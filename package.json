@@ -2,12 +2,12 @@
     "author": "robisodd",
     "dependencies": {},
     "keywords": [],
-    "name": "pixel-muncher-0.6",
+    "name": "pixel-muncher-v0.6",
     "pebble": {
         "capabilities": [
             ""
         ],
-        "displayName": "Pixel Muncher 0.6",
+        "displayName": "Pixel Muncher v0.6",
         "enableMultiJS": true,
         "messageKeys": {},
         "projectType": "native",
@@ -40,10 +40,14 @@
             ]
         },
         "sdkVersion": "3",
-        "uuid": "2b3102b7-2083-42d5-9878-e5707f4f81b6",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "c964a906-5398-4985-9ef6-decaffc0ffee",
         "watchapp": {
             "watchface": false
         }
     },
-    "version": "1.0.0"
+    "version": "0.6.0"
 }

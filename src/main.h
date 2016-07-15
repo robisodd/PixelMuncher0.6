@@ -54,7 +54,7 @@ typedef struct SpectreStruct {
   GPoint pos;        // in pixels, not tile -- center pixel
   GPoint dir;        // direction of movement (always -1, 0 or 1)
   GPoint targettile; // tile, not pixel
-  GPoint 
+  //GPoint 
   uint8_t  speed;      // speed bucket for direction of movement
   //uint8_t face;      // 0=Left, 1=Up, 2=Right, 3=Down
   //int16_t  facing;     // Eyes Direction Facing (from 0 - TRIG_MAX_ANGLE)
