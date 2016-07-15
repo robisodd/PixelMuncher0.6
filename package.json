@@ -1,0 +1,49 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pixel-muncher-0.6",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Pixel Muncher 0.6",
+        "enableMultiJS": true,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/background.png",
+                    "name": "BACKGROUND",
+                    "targetPlatforms": null,
+                    "type": "pbi"
+                },
+                {
+                    "file": "images/icon.png",
+                    "name": "ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fontsprites.png",
+                    "name": "FONT_SPRITES",
+                    "targetPlatforms": null,
+                    "type": "pbi"
+                },
+                {
+                    "file": "images/font8.png",
+                    "name": "FONT8",
+                    "targetPlatforms": null,
+                    "type": "pbi"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "2b3102b7-2083-42d5-9878-e5707f4f81b6",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
